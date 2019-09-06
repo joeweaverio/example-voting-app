@@ -1,0 +1,3 @@
+[submodule "Containers/psight/vote-app"]
+	path = Containers/psight/vote-app
+	url = https://github.com/joeweaverio/example-voting-app.git
